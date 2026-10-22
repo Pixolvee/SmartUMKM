@@ -32,7 +32,7 @@ const AuthRoute = AuthRouteImport.update({
 } as any)
 const KasirRoute = KasirRouteImport.update({
   id: '/kasir',
-  path: '/kasirmm',
+  path: '/kasirrrr',
   getParentRoute: () => rootRouteImport,
 } as any)
 const KeuanganRoute = KeuanganRouteImport.update({
